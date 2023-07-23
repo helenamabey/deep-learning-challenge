@@ -17,5 +17,5 @@
 
 ## Summary
     
-    * Using the Keras model within Tensorflow, the prediction was returned with approximately 72.8% accuracy. The goal was 75% so the model fell just short of the optimal result. Though multiple adjustments of the layers and epochs, the percentage was able to achieve the requisite score. Two hidden layers were used to attempt to strengthen the successes and minimize the loss. The model was trained through first 100 then 150 epochs. The results showed little change with the increased number of epochs. 
-    * As an additional option instead of using a Keras model, the data could have been modeled using K-Nearest Neighbors. This model also provides an accuracy model based on multiple features by sorting true and false positives and negatives hrough a confusion matrix. 
+* Using the Keras model within Tensorflow, the prediction was returned with approximately 72.8% accuracy. The goal was 75% so the model fell just short of the optimal result. Though multiple adjustments of the layers and epochs, the percentage was able to achieve the requisite score. Two hidden layers were used to attempt to strengthen the successes and minimize the loss. The model was trained through first 100 then 150 epochs. The results showed little change with the increased number of epochs. 
+* As an additional option instead of using a Keras model, the data could have been modeled using K-Nearest Neighbors. This model also provides an accuracy model based on multiple features by sorting true and false positives and negatives hrough a confusion matrix. 
